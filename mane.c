@@ -1,7 +1,8 @@
 main()
 {
-    printf("This is a test\n");
-    printf("This is a second test\n");
-    printf("This is a third test\n");
-    printf("This is a fourth test\n");
+    printf("first test\n");
+    printf("second test\n");
+    printf("third test\n");
+    printf("fourth test\n");
+    printf("fourth test\n");
 }
